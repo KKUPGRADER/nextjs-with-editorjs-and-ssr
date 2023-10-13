@@ -2,6 +2,11 @@
   "name": "nextjs-with-editorjs-and-ssr",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Kanak Kholwal",
+    "url": "https://kanakkholwal.eu.org"
+    
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
